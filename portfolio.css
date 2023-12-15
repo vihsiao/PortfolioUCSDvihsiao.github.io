@@ -48,7 +48,7 @@ body {
 
 .card-image {
     width: 70%;
-    padding: 0 10% 10% 10%;
+    padding: 5% 10% 10% 10%;
 }
 
 #expertise {
@@ -74,8 +74,8 @@ body {
 
 .project-image {
     width: 80%;
-    padding: 10%;
-    margin-left: 12.5%;
+    padding: 13% 10%;
+    margin-left: 13%;
 }
 
 .projects-title {
@@ -94,8 +94,8 @@ body {
 
 /* Contact Me Section */
 .final-img {
-    width: 30%;
-    margin: 0 0 4% 35%;
+    width: 31%;
+    margin: 0 0 5% 35%;
     padding: 0%;
 }
 
