@@ -119,23 +119,23 @@ body {
 }
 
 .email:hover {
-    background-color: #64748b;
-    color: white;
-    text-decoration: none;
+background-color: #64748b;
+color: white;
+text-decoration: none;
 }
 
 .icons {
-    display: flex;
-    justify-content: center;
-    gap: 6%;
-    padding: 5%;
-    font-size: 2rem;
+display: flex;
+justify-content: center;
+gap: 6%;
+padding: 5%;
+font-size: 2rem;
 }
 
 .icon-link {
-    color: white;
+color: white;
 }
 
 .icon-link:hover {
-    color: white;
+color: white;
 }
