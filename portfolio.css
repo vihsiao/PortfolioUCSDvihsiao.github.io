@@ -46,6 +46,11 @@ body {
 
 /* Expertise Section */
 
+.card-image {
+    width: 70%;
+    padding: 0 10% 10% 10%;
+}
+
 #expertise {
     padding: 3%;
 }
@@ -67,10 +72,10 @@ body {
     margin-bottom: 0;
 }
 
-.card-image {
-    width: 75%;
-    padding: 15%;
-    margin-left: 5%;
+.project-image {
+    width: 80%;
+    padding: 10%;
+    margin-left: 12.5%;
 }
 
 .projects-title {
@@ -94,6 +99,23 @@ body {
     padding: 0%;
 }
 
+.connect {
+    margin-bottom: 5%;
+}
+
+.email {
+    color: white;
+    margin-left: 43%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.email:hover {
+    background-color: #64748b;
+    color: white;
+    text-decoration: none;
+}
+
 .icons {
     display: flex;
     justify-content: center;
@@ -102,3 +124,10 @@ body {
     font-size: 2rem;
 }
 
+.icon-link {
+    color: white;
+}
+
+.icon-link:hover {
+    color: white;
+}
